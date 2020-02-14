@@ -1,0 +1,3 @@
+import Mix.Config
+
+config :logger, level: :warn
